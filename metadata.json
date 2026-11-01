@@ -1,0 +1,6 @@
+{
+  "name": "Aviva Capital Client Portal",
+  "description": "Aviva Capital Institutional Credit & Finance portal with paperless registration, e-KYC document upload, client dashboard, wallet, and staff admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
